@@ -1,0 +1,11 @@
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe.config
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\bin\Debug\BillingSystem.exe
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\bin\Debug\BillingSystem.pdb
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csprojAssemblyReference.cache
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.AdminDashboard.resources
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.GenerateResource.cache
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.View.frmUsers.resources
