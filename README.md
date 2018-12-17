@@ -12,3 +12,7 @@ In here user can choose the option he/she wants.
 This is the users page that user can interact with. Both insert,delete and update can be done here,in registering users.
 
 ![alt text](https://github.com/pasan04/Billing-System-Desktop_Application-Using-VB.net/blob/master/storemanagement2.PNG)
+
+
+<h2>Login Page</h2>
+![alt text](https://github.com/pasan04/Billing-System-Desktop_Application-Using-VB.net/blob/master/login.PNG)
