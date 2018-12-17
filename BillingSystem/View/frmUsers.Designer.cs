@@ -343,6 +343,7 @@
             this.text_id.Name = "text_id";
             this.text_id.Size = new System.Drawing.Size(185, 27);
             this.text_id.TabIndex = 27;
+            this.text_id.TextChanged += new System.EventHandler(this.text_id_TextChanged);
             // 
             // label12
             // 

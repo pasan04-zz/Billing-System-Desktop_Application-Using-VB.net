@@ -9,3 +9,4 @@ C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\
 C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.exe
 C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.pdb
 C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.View.frmUsers.resources
+C:\Users\Pasan Kamburugamuwa\source\repos\BillingSystem\BillingSystem\obj\Debug\BillingSystem.View.Login.resources

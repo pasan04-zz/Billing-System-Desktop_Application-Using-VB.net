@@ -234,5 +234,10 @@ namespace BillingSystem.View
 
             }
         }
+
+        private void text_id_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
